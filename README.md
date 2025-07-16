@@ -5,7 +5,7 @@ Thành viên: Anh Lê Nhân (Team lead - support) - Trần Trọng Tuấn.
 
 Web bao gồm: Trang chủ và các thành phần bên trong.
 
-Công việc: Full stack website.
+Công việc: Full-stack Web Developer.
 
 Công nghệ & Công cụ: HTML, CSS, JS, PHP, Wordpress.
 
